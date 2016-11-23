@@ -32,13 +32,11 @@ Markdown dispone de listas ordenadas:
 
 1. David
 2. Noé
-3. Blas
 
 Y listas no ordenadas:
 
 * David
 * Noé
-* Blas
 
 Listas anidadas
 
