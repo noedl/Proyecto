@@ -64,3 +64,8 @@ También te permite crear tablas:
 | ighjh | kbjn | hyhi |
 | hbjkj | khbhmm | bhhhhhhbh |
 | jjjjj | hhhhhh | lllllllll |
+
+Permite además <i>usar <b>código</b> html</i>
+
+Y citas:
+> Tres tristes tigres tragaban trigo en un trigal.
