@@ -28,3 +28,28 @@ También en Markdown puedes poner código de cualquier lenguaje:
 
 Además puedes poner código en una misma línea: `git commit -m "corregido fallo 6581"`
 
+Markdown dispone de listas ordenadas:
+
+1. David
+2. Noé
+3. Blas
+
+Y listas no ordenadas:
+
+* David
+* Noé
+* Blas
+
+Listas anidadas
+
+1. David
+  *Tonto
+  *Gay
+    *La chupa
+    
+2. Noé
+  *Listo
+  *Bueno
+    *Guapo
+
+Markdown te permite poner [enlaces a paginas web](http://github.com), incluso solo poniendo la URL: http:/google.com
