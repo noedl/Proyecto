@@ -72,6 +72,6 @@ Y citas:
 
 Markdown te permite crear listas de chequeo:
 
-- [] Patatas.
+- [ ] Patatas.
 - [X] Huevos.
-- [] Tomates.
+- [ ] Tomates.
