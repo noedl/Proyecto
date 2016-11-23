@@ -58,3 +58,9 @@ En Markdown también se pueden poner imagenes:
 ![imagen](http://www.365imagenesbonitas.com/wp-content/uploads/2014/07/imagenes-bonitas-homer-400x284.jpg)
 
 También te permite crear tablas:
+
+| igghyi | ilggy | hvgfhxcrt |
+| ------ | ----- | --------- |
+| ighjh | kbjn | hyhi |
+| hbjkj | khbhmm | bhhhhhhbh |
+| jjjjj | hhhhhh | lllllllll |
