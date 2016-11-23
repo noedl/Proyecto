@@ -51,3 +51,10 @@ Listas anidadas
     * Guapo
 
 Markdown te permite poner [enlaces a paginas web](http://github.com), incluso solo poniendo la URL: http://google.com
+
+
+En Markdown también se pueden poner imagenes:
+
+![imagen](https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiNg_CN4r7QAhWHF8AKHQNqCK0QjRwIBw&url=http%3A%2F%2Fwww.365imagenesbonitas.com%2F&psig=AFQjCNFeUD3tQTDHHrvlEqg23T0cLMOPWQ&ust=1479986664316446)
+
+También te permite crear tablas:
