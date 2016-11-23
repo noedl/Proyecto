@@ -69,3 +69,9 @@ Permite además <i>usar <b>código</b> html</i>
 
 Y citas:
 > Tres tristes tigres tragaban trigo en un trigal.
+
+Markdown te permite crear listas de chequeo:
+
+- [] Patatas.
+- [X] Huevos.
+- [] Tomates.
