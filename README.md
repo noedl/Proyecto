@@ -43,13 +43,13 @@ Y listas no ordenadas:
 Listas anidadas
 
 1. David
-  *Tonto
-  *Gay
-    *La chupa
+  * Tonto
+  * Gay
+    * La chupa
     
 2. Noé
-  *Listo
-  *Bueno
-    *Guapo
+  1. Listo
+  2. Bueno
+    * Guapo
 
-Markdown te permite poner [enlaces a paginas web](http://github.com), incluso solo poniendo la URL: http:/google.com
+Markdown te permite poner [enlaces a paginas web](http://github.com), incluso solo poniendo la URL: http://google.com
